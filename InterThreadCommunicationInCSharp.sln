@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterThreadCommunicationInCSharp", "InterThreadCommunicationInCSharp\InterThreadCommunicationInCSharp.csproj", "{A6289784-AE98-47C1-83F5-0C2E15B22B0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6289784-AE98-47C1-83F5-0C2E15B22B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6289784-AE98-47C1-83F5-0C2E15B22B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6289784-AE98-47C1-83F5-0C2E15B22B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6289784-AE98-47C1-83F5-0C2E15B22B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {846289AA-DEB3-4367-8EFF-44212EF0738A}
+	EndGlobalSection
+EndGlobal
